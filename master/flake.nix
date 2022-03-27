@@ -11,6 +11,7 @@
   inputs.src-bearlibterminal-master.ref   = "refs/heads/master";
   inputs.src-bearlibterminal-master.owner = "irskep";
   inputs.src-bearlibterminal-master.repo  = "BearLibTerminal-Nim";
+  inputs.src-bearlibterminal-master.dir   = "";
   inputs.src-bearlibterminal-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
