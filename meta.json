@@ -7,7 +7,7 @@
   "license": "MIT",
   "web": "https://github.com/irskep/BearLibTerminal-Nim",
   "refs": [
-    "fatal: unable to access 'https://github.com/irskep/BearLibTerminal-Nim/': Error in the HTTP2 framing layer",
+    "fatal: unable to access 'https://github.com/irskep/BearLibTerminal-Nim/': SSL connection timeout",
     ""
   ],
   "heads": []
