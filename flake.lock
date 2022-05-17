@@ -12,11 +12,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1652367001,
-        "narHash": "sha256-Ummvq1lkw/pd/87LDIVWUfAGMXVdMXvu8kZ/UiowG0c=",
+        "lastModified": 1652390890,
+        "narHash": "sha256-pkgrp0PZ5xi3n8LoM9CPh8ct78usvN8/APhX7ITX/1w=",
         "owner": "nim-nix-pkgs",
         "repo": "bearlibterminal",
-        "rev": "5e6085970b2be692a8bb881884023cebcb7e38d8",
+        "rev": "aa3b3926182288318ff4e9ef293eef54179a3f60",
         "type": "github"
       },
       "original": {
