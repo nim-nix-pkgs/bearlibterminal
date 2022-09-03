@@ -1,6 +1,0 @@
-binaries/*
-!binaries/libBearLibTerminal.*
-!binaries/*.xp
-!binaries/*.png
-main
-demo
